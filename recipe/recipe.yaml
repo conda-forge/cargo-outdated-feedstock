@@ -1,5 +1,5 @@
 context:
-  version: "0.17.0"
+  version: "0.18.0"
 
 package:
   name: cargo-outdated
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/kbknapp/cargo-outdated/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 6c1c6914f34d3c0d9ebf26b74224fa6744a374e876b35f9836193c2b03858fa4
+  sha256: a0acb73eca2cc65915db426e49a0b834d20ef2cb302bd2ce21c1d59f3cb1894b
 
 build:
   number: 0
